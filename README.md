@@ -1,6 +1,6 @@
 # northwind
 In this sample mobile application – you’ll see a wide range of Alpha Anywhere features, including offline data access and synchronization, hierarchical data representations, and special UI features, like custom keyboards and coarse and fine scroll controls.
-
+  
 # How to Download and Install this Project
 1. Click the Clone or download button and select the Download Zip option to download the sample application.
 2. Extract all files from the .zip file.
