@@ -1,4 +1,4 @@
-**Works with Git in Alpha Anywhere!** (Requires version 4.6 or newer)
+**Works with Git in Alpha Anywhere!** (Git in Alpha Anywhere requires version 4.6 or newer)
 
 # northwind
 In this sample mobile application – you’ll see a wide range of Alpha Anywhere features, including offline data access and synchronization, hierarchical data representations, and special UI features, like custom keyboards and coarse and fine scroll controls.
